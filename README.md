@@ -1,6 +1,6 @@
 # Proyecto React con Vite: Temática Abierta
 
-Este proyecto es un desafío para construir una aplicación de lista de tareas interactiva en React utilizando Vite como boilerplate.
+Este proyecto es un desafío para construir una aplicación con temática abierta e interactiva en React utilizando Vite para construir el boilerplate.
 
 ## Desarrollo del proyecto
 
@@ -12,7 +12,7 @@ La temática del proyecto queda a elección del desarrollador o equipo de trabaj
 
 ## Características Principales
 
-- **Rutas**: Implementación de **mínimo de dos vistas**, una principal con renderizado de listas y otra de detalle, [usa React Router Dom 6](https://reactrouter.com/en/main/start/tutorial) para esto
+- **Rutas y Vistas**: Implementación de **mínimo de dos vistas**, una principal con renderizado de listas y otra de detalle, [usa React Router Dom 6](https://reactrouter.com/en/main/start/tutorial) para esto
 - **Manejo de Estado**: Utiliza al menos `useState` y `useEffect` para gestionar el estado y los efectos dentro de los componentes de tu aplicación.
 - **Consumo y persistencia de Datos**: Puede utilizar [mock API](https://mockapi.io/) (recomendado) o cualquier API de tu preferencia, en [Rapid API](https://rapidapi.com/) puedes encontrar diferentes API. Se recomienda usar métodos POST y PUT para interactuar con la API, en caso que la API no tenga métodos GET o POST disponibles limitate a usar GET.
 - **Componentes Funcionales**: Desarrolla la aplicación utilizando componentes funcionales en JSX.
