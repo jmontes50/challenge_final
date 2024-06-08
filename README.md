@@ -4,7 +4,7 @@ Este proyecto es un desafío para construir una aplicación con temática abiert
 
 ## Desarrollo del proyecto
 
-El proyecto esta plantado para ser desarrollado entre 1 a 3 Personas.
+El proyecto esta planteado para ser desarrollado entre 1 a 3 Personas.
 
 ## Temática del proyecto
 
@@ -14,7 +14,7 @@ La temática del proyecto queda a elección del desarrollador o equipo de trabaj
 
 - **Rutas y Vistas**: Implementación de **mínimo de dos vistas**, una principal con renderizado de listas y otra de detalle, [usa React Router Dom 6](https://reactrouter.com/en/main/start/tutorial) para esto
 - **Manejo de Estado**: Utiliza al menos `useState` y `useEffect` para gestionar el estado y los efectos dentro de los componentes de tu aplicación.
-- **Consumo y persistencia de Datos**: Puede utilizar [mock API](https://mockapi.io/) (recomendado) o cualquier API de tu preferencia, en [Rapid API](https://rapidapi.com/) puedes encontrar diferentes API. Se recomienda usar métodos POST y PUT para interactuar con la API, en caso que la API no tenga métodos GET o POST disponibles limitate a usar GET.
+- **Consumo y persistencia de Datos**: Puede utilizar [mock API](https://mockapi.io/) (recomendado) o cualquier API de tu preferencia, en [Rapid API](https://rapidapi.com/) puedes encontrar diferentes API. Se recomienda usar métodos POST y PUT para interactuar con la API, en caso que la API no tenga métodos POST / PU disponibles limitarlo a usar peticiones GET (puedes pensarlo como un [Producto Mínimo Viable](https://www.adjust.com/es/blog/learn-how-to-develop-and-test-an-mvp-app/))
 - **Componentes Funcionales**: Desarrolla la aplicación utilizando componentes funcionales en JSX.
 - **CSS**: Usa CSS puro, Bootstrap o algún framework/librería de CSS de tu elección.
 - **Usabilidad**: El proyecto debe ser responsive.
@@ -62,6 +62,26 @@ La temática del proyecto queda a elección del desarrollador o equipo de trabaj
     ```bash
     npm run dev
     ```
+
+## Preguntas Frecuentes
+
+1. Qué aspectos se evaluan?
+
+    1. Presentación de la problemática/oportunidad y objetivos del proyecto
+    2. Relevancia, Creatividad e Innovación
+    3. Herramientas y tecnologias utilizadas
+    4. Demostración del Proyecto.
+    5. Funcionalidad Implementadas
+    6. Despliegue del proyecto.
+    7. Habilidades de comunicación.
+    8. Manejo del tiempo.
+    9. Capacidad de responder preguntas de estudiantes y docente.
+
+2. ¿Qué hacer si un compañero no contribuye o no responde?**
+
+   - **Comunicación y Acuerdos:** Intenten primero hablar entre ustedes para entender la situación y llegar a un acuerdo sobre cómo seguir adelante.
+   - **Notificación:** Si no logran contacto o acuerdos, informen al docente o tutor rápidamente.
+   - **Continuar el Proyecto:** Sigan trabajando en el proyecto con los recursos disponibles, buscando alternativas para cubrir la falta de contribución.
 
 ## Links recomendados
 
