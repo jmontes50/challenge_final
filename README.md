@@ -81,8 +81,12 @@ La temática del proyecto queda a elección del desarrollador o equipo de trabaj
 
    - **Comunicación y Acuerdos:** Intenten primero hablar entre ustedes para entender la situación y llegar a un acuerdo sobre cómo seguir adelante.
    - **Notificación:** Si no logran contacto o acuerdos, informen al docente o tutor rápidamente.
-   - **Continuar el Proyecto:** Sigan trabajando en el proyecto con los recursos disponibles, buscando alternativas para cubrir la falta de contribución.
+   - **Continuar el Proyecto:** Sigan trabajando en el proyecto con los recursos disponibles. 
 
+## Recursos para repasar conceptos
+
+- [Recursos de conceptos de React](./Resources.md)
+   
 ## Links recomendados
 
 - [Ejemplo con Zustand](https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2)
